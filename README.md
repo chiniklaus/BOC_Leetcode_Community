@@ -1,4 +1,4 @@
-LeetCode
+共勉
 ========
 
 ### LeetCode Solutions
