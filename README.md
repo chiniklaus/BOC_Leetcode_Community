@@ -12,3 +12,4 @@ LeetCode
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/) | [Java](./Solutions/47.java)|Medium|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Java](./Solutions/576.java)|Medium|
 |943|[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | [Java](./Solutions/943.java)|Hard|
+|684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](./Solutions/684.java)|Medium|
