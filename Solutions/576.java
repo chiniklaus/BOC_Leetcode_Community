@@ -8,6 +8,8 @@
 // tips on modulo,we want to eliminate all possible overflows. to avoid that, everytime we to
 // a addition, we module.
 
+// Time O(mnN), space O(mnN).
+
 class Solution {
     int M = 1000000007;
     int count = 0;
@@ -34,5 +36,32 @@ class Solution {
             memo[x][y][move] = local;
             return local;
         }
+    }
+}
+
+// bottom up dp solution
+
+class Solution {
+    int M = 1000000007;
+    int[][] dir = new int[][]{{1,0},{-1,0},{0,1},{0,-1}};
+    public int findPaths(int m, int n, int maxMove, int startRow, int startColumn) {
+        int[][][] dp = new int[maxMove+1][m][n];
+        
+        for (int move = 1; move <= maxMove; move++) {
+            for (int i = 0; i < m; i++) {
+                for (int j = 0; j < n; j++) {
+                    for (int[] d: dir){
+                        int ni = i + d[0];
+                        int nj = j + d[1];
+                        if (ni == -1 || ni == m || nj == -1 || nj == n) {
+                            dp[move][i][j] += 1;
+                        } else {
+                            dp[move][i][j] = (dp[move][i][j] + dp[move-1][ni][nj]) % M;
+                        }
+                    }
+                }
+            }
+        }
+        return dp[maxMove][startRow][startColumn];
     }
 }
