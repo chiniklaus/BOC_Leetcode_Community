@@ -11,3 +11,4 @@ LeetCode
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/submissions/) | [Java](./Solutions/216.java)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/) | [Java](./Solutions/47.java)|Medium|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Java](./Solutions/576.java)|Medium|
+|943|[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | [Java](./Solutions/943.java)|Hard|
