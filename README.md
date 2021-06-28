@@ -14,3 +14,4 @@ LeetCode
 |943|[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | [Java](./Solutions/943.java)|Hard|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](./Solutions/684.java)|Medium|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Java](./Solutions/301.java)|Hard|
+|135|[Candy](https://leetcode.com/problems/candy/) | [Java](./Solutions/135.java)|Hard|
