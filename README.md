@@ -15,3 +15,4 @@ LeetCode
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](./Solutions/684.java)|Medium|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Java](./Solutions/301.java)|Hard|
 |135|[Candy](https://leetcode.com/problems/candy/) | [Java](./Solutions/135.java)|Hard|
+|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java](./Solutions/135.java)|Hard|
