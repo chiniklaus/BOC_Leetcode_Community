@@ -16,3 +16,4 @@ LeetCode
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Java](./Solutions/301.java)|Hard|
 |135|[Candy](https://leetcode.com/problems/candy/) | [Java](./Solutions/135.java)|Hard|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java](./Solutions/135.java)|Hard|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](./Solutions/146.java)|Hard|
