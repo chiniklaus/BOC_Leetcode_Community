@@ -17,3 +17,4 @@ LeetCode
 |135|[Candy](https://leetcode.com/problems/candy/) | [Java](./Solutions/135.java)|Hard|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Java](./Solutions/135.java)|Hard|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](./Solutions/146.java)|Medium|
+|1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Java](./Solutions/1167.java)|Medium|
