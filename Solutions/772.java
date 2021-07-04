@@ -66,3 +66,53 @@ class Solution {
         return ans;
     }
 }
+
+// a solution without substring overhead
+class Solution {
+    int pointer = 0;
+    public int calculate(String s) {
+        int len = s.length();
+        int number = 0;
+        char opr = '+';
+        Deque<Integer> st = new ArrayDeque<>();
+        while (pointer < len) {
+            char c = s.charAt(pointer);
+            if (Character.isDigit(c)) {
+                number = number * 10 + (c-'0');
+            }
+            if (c == '(') {
+                pointer++;
+                number = calculate(s);
+            }
+            if (!Character.isDigit(c) && c != ' ' || pointer == len-1) {
+                switch (opr) {
+                    case '+':
+                        st.push(number);
+                        break;
+                    case '-':
+                        st.push(-number);
+                        break;
+                    case '*':
+                        st.push(st.pop() * number);
+                        break;
+                    case '/':
+                        st.push(st.pop() / number);
+                        break;
+                }
+                if (c == ')') break;
+                if (c == '(' && pointer != len - 1) {
+                    number = st.pop();
+                    opr = '+';
+                    pointer++;
+                    continue;
+                }
+                opr = c;
+                number = 0;
+            }
+            pointer++;
+        }
+        int ans = 0;
+        while (st.size() != 0) ans += st.pop();
+        return ans;
+    }
+}
