@@ -20,3 +20,4 @@ LeetCode
 |1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Java](./Solutions/1167.java)|Medium|
 |937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Java](./Solutions/937.java)|Easy|
 |366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) | [Java](./Solutions/366.java)|Medium|
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Java](./Solutions/224.java)|Hard|
