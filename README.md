@@ -23,3 +23,4 @@ LeetCode
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Java](./Solutions/224.java)|Hard|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Java](./Solutions/227.java)|Medium|
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [Java](./Solutions/1202.java)|Medium|
+|772|[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | [Java](./Solutions/772.java)|Hard|
