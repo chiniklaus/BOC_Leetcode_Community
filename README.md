@@ -25,3 +25,5 @@ LeetCode
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [Java](./Solutions/1202.java)|Medium|
 |772|[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | [Java](./Solutions/772.java)|Hard|
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Java](./Solutions/1041.java)|Medium|
+|252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Java](./Solutions/252.java)|Easy|
+|253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Java](./Solutions/253.java)|Medium|
