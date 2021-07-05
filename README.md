@@ -28,3 +28,4 @@ LeetCode
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Java](./Solutions/252.java)|Easy|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Java](./Solutions/253.java)|Medium|
 |139|[Word Break](https://leetcode.com/problems/word-break/) | [Java](./Solutions/139.java)|Medium|
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii/) | [Java](./Solutions/140.java)|Hard|
