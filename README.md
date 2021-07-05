@@ -27,3 +27,4 @@ LeetCode
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Java](./Solutions/1041.java)|Medium|
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Java](./Solutions/252.java)|Easy|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Java](./Solutions/253.java)|Medium|
+|139|[Word Break](https://leetcode.com/problems/word-break/) | [Java](./Solutions/139.java)|Medium|
