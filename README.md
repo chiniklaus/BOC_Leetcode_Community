@@ -33,3 +33,4 @@ LeetCode
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](./Solutions/297.java)|Hard|
 |882|[Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) | [Java](./Solutions/882.java)|Hard|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](./Solutions/23.java)|Hard|
+|933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Java](./Solutions/933.java)|Easy|
