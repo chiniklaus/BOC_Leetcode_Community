@@ -35,3 +35,4 @@ LeetCode
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](./Solutions/23.java)|Hard|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Java](./Solutions/933.java)|Easy|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [Java](./Solutions/289.java)|Medium|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](./Solutions/209.java)|Medium|
