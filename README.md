@@ -7,6 +7,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](./Solutions/23.java)|Hard|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./Solutions/42.java)|Hard|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/) | [Java](./Solutions/47.java)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/) | [Java](./Solutions/90.java)|Medium|
 |135|[Candy](https://leetcode.com/problems/candy/) | [Java](./Solutions/135.java)|Hard|
