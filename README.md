@@ -36,6 +36,7 @@ LeetCode
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Java](./Solutions/933.java)|Easy|
 |937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Java](./Solutions/937.java)|Easy|
 |943|[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | [Java](./Solutions/943.java)|Hard|
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Java](./Solutions/1004.java)|Medium|
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Java](./Solutions/1041.java)|Medium|
 |1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Java](./Solutions/1167.java)|Medium|
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [Java](./Solutions/1202.java)|Medium|
