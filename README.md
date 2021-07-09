@@ -30,6 +30,7 @@ LeetCode
 |472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [Java](./Solutions/472.java)|Hard|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Java](./Solutions/576.java)|Medium|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](./Solutions/684.java)|Medium|
+|718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Java](./Solutions/718.java)|Medium|
 |772|[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | [Java](./Solutions/772.java)|Hard|
 |882|[Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) | [Java](./Solutions/882.java)|Hard|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Java](./Solutions/933.java)|Easy|
