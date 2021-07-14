@@ -6,6 +6,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|15|[3Sum](https://leetcode.com/problems/3sum/) | [Java](./Solutions/15.java)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](./Solutions/23.java)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./Solutions/42.java)|Hard|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/) | [Java](./Solutions/47.java)|Medium|
@@ -40,3 +41,4 @@ LeetCode
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Java](./Solutions/1041.java)|Medium|
 |1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Java](./Solutions/1167.java)|Medium|
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [Java](./Solutions/1202.java)|Medium|
+|1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [Java](./Solutions/1395.java)|Medium|
