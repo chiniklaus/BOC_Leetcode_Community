@@ -29,6 +29,7 @@ LeetCode
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Java](./Solutions/332.java)|Medium|
 |366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) | [Java](./Solutions/366.java)|Medium|
 |472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [Java](./Solutions/472.java)|Hard|
+|523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/submissions/) | [Java](./Solutions/523.java)|Medium|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Java](./Solutions/576.java)|Medium|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](./Solutions/684.java)|Medium|
 |718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Java](./Solutions/718.java)|Medium|
