@@ -44,4 +44,5 @@ LeetCode
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Java](./Solutions/1041.java)|Medium|
 |1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Java](./Solutions/1167.java)|Medium|
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [Java](./Solutions/1202.java)|Medium|
+|1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Java](./Solutions/1268.java)|Medium|
 |1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [Java](./Solutions/1395.java)|Medium|
