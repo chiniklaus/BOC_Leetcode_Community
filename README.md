@@ -17,6 +17,7 @@ LeetCode
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/) | [Java](./Solutions/140.java)|Hard|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](./Solutions/146.java)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](./Solutions/189.java)|Medium|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](./Solutions/208.java)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](./Solutions/209.java)|Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/submissions/) | [Java](./Solutions/216.java)|Medium|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Java](./Solutions/224.java)|Hard|
