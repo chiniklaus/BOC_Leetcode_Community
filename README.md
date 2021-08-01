@@ -39,6 +39,7 @@ LeetCode
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](./Solutions/684.java)|Medium|
 |718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Java](./Solutions/718.java)|Medium|
 |772|[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | [Java](./Solutions/772.java)|Hard|
+|827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [Java](./Solutions/827.java)|Hard|
 |882|[Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) | [Java](./Solutions/882.java)|Hard|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Java](./Solutions/933.java)|Easy|
 |937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Java](./Solutions/937.java)|Easy|
@@ -48,6 +49,7 @@ LeetCode
 |1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [Java](./Solutions/1049.java)|Medium|
 |1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | [Java](./Solutions/1135.java)|Medium|
 |1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Java](./Solutions/1167.java)|Medium|
+|1168|[Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) | [Java](./Solutions/1168.java)|Hard|
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [Java](./Solutions/1202.java)|Medium|
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Java](./Solutions/1268.java)|Medium|
 |1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [Java](./Solutions/1395.java)|Medium|
