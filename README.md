@@ -39,6 +39,7 @@ LeetCode
 |642|[Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | [Java](./Solutions/642.java)|Hard|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](./Solutions/684.java)|Medium|
 |718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Java](./Solutions/718.java)|Medium|
+|759|[Employee Free Time](https://leetcode.com/problems/employee-free-time/) | [Java](./Solutions/759.java)|Hard|
 |772|[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | [Java](./Solutions/772.java)|Hard|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [Java](./Solutions/827.java)|Hard|
 |882|[Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) | [Java](./Solutions/882.java)|Hard|
