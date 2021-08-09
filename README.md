@@ -8,6 +8,7 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./Solutions/1.java)|Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](./Solutions/12.java)|Medium|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](./Solutions/13.java)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/) | [Java](./Solutions/15.java)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](./Solutions/23.java)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./Solutions/42.java)|Hard|
@@ -27,6 +28,7 @@ LeetCode
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Java](./Solutions/227.java)|Medium|
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Java](./Solutions/252.java)|Easy|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Java](./Solutions/253.java)|Medium|
+|276|[Paint Fence](https://leetcode.com/problems/paint-fence/) | [Java](./Solutions/276.java)|Medium|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [Java](./Solutions/289.java)|Medium|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](./Solutions/297.java)|Hard|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Java](./Solutions/301.java)|Hard|
